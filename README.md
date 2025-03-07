@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Software Engineering student<br>I'm looking forward to become a good software developer and designer <br>in the future
+Currently a Software Engineering student<br>looking forward to learn more about Computer Science and Design.<br>Probably the future unemployed Computer Science student
 
 
 ## 🌐 Socials:
