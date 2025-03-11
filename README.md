@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-Currently a Software Engineering student<br>looking forward to learn more about Computer Science and Design.<br>Probably the future unemployed Computer Science student
+Currently a Software Engineering student. looking forward to learn more about Computer Science and Design. Probably the future unemployed Computer Science student.
 
 
 ## 🌐 Socials:
