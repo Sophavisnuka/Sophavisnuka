@@ -1,7 +1,8 @@
 <div align = center>
-  <img src = "./gojovssukuna.png" width = 600px>
+  <img src = "./gojovssukuna.png" width = 1000px>
 </div>
-  ![Backend vs Frontend](https://github.com/Sophavisnuka/Sophavisnuka/blob/1e923015716417eaf517961ebedfe96ab73bcfe4/gojo-vs-sukuna-icegif-7.gif)
+
+![Backend vs Frontend](https://github.com/Sophavisnuka/Sophavisnuka/blob/1e923015716417eaf517961ebedfe96ab73bcfe4/gojo-vs-sukuna-icegif-7.gif)
 
 # 💫 About Me:
 Currently a Software Engineering student<br>looking forward to learn more about Computer Science and Design.<br>Probably the future unemployed Computer Science student
