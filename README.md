@@ -1,5 +1,5 @@
 
-<img src = "../gojovssukuna.png" width = 300px>
+<img src = "./gojovssukuna.png" width = 300px>
 
 
 # 💫 About Me:
