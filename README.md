@@ -1,4 +1,5 @@
-![Backend vs Frontend](https://github.com/Sophavisnuka/Sophavisnuka/blob/1d7b9946f974b66fb371c2ac76c9578b6caab53d/gojovssukuna.png)
+
+<img src = "../gojovssukuna.png" width = 300px>
 
 
 # 💫 About Me:
