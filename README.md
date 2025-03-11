@@ -1,3 +1,6 @@
+![Backend vs Frontend](https://github.com/Sophavisnuka/Sophavisnuka/blob/1d7b9946f974b66fb371c2ac76c9578b6caab53d/gojovssukuna.png)
+
+
 # 💫 About Me:
 Currently a Software Engineering student<br>looking forward to learn more about Computer Science and Design.<br>Probably the future unemployed Computer Science student
 
