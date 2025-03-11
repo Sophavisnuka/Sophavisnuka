@@ -1,8 +1,3 @@
-<div>
-  <img src = "https://images8.alphacoders.com/135/1351402.png">
-</div>
-
-
 # 💫 About Me:
 Currently a Software Engineering student<br>looking forward to learn more about Computer Science and Design.<br>Probably the future unemployed Computer Science student
 
