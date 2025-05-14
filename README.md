@@ -1,8 +1,6 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="text-align: center; width: 100%;">
     <img src="https://github.com/Sophavisnuka/Sophavisnuka/blob/1e923015716417eaf517961ebedfe96ab73bcfe4/gojo-vs-sukuna-icegif-7.gif" width="100%">
-  </div>
-</div>
 
 
 
@@ -29,3 +27,5 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ </div>
+</div>
