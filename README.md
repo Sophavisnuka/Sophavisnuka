@@ -1,10 +1,10 @@
-<div style="display: flex; justify-content: center; align-items: center; width: 100%">
-  <div style="text-align: center; width: 100%; ">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%">
+  <div style="text-align: center; width: 100%; height: 100%">
     <img src="https://github.com/Sophavisnuka/Sophavisnuka/blob/1e923015716417eaf517961ebedfe96ab73bcfe4/gojo-vs-sukuna-icegif-7.gif">
 
     
 # 💫 About Me:
-Currently a Software Engineering student. looking forward to learn more about Computer Science and Design. Probably the future unemployed Computer Science student.
+othing beats a jet2 holiday and right now you can save £50 per person!!!That's £200 off for a family of 4, We've got millions of free child place holidays available with 22kg of baggage included. but now with jet2 holidays! package holidays you can trust!
 
 
 ## 🌐 Socials:
